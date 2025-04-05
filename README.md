@@ -1,0 +1,2 @@
+# lingua-franca-nieruchomosci
+LFN
